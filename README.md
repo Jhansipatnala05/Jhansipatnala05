@@ -17,7 +17,7 @@ _Welcome to my GitHub! I build scalable, clean, and reliable data pipelines with
 ---
 
 
- ### 🧠 What I Do Well
+ ### 🌟 What I Do Well
 - Python, Scala, Spark, Airflow, Kafka
 - AWS, Azure, GCP, Snowflake, Delta Lake
 - CI/CD with GitHub Actions | dbt | Terraform
