@@ -24,17 +24,23 @@ _Welcome to my GitHub! I build scalable, clean, and reliable data pipelines with
 - Star & Data Vault modeling | Data Quality with Great Expectations
 - Building for people first — with performance and trust baked in
 
+---
+
 ### 📌 I'm Open to Work
 I’m actively seeking **full-time opportunities in data engineering, analytics engineering, or cloud data platforms** — where I can learn, contribute, and grow with a team that values **curiosity, creativity, and compassion** as much as code.
 
+---
+
 📫 Let’s connect: [patnalajhansi05@gmail.com](mailto:patnalajhansi05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jhansi-patnala-b34434228/) | [Portfolio](https://jhansipatnala05.github.io/)
 
+---
 
 If you're looking for someone who:
 - Treats pipelines like products,
 - Builds with heart and rigor,
 - Thrives in fast-paced, cross-functional teams,
 
+---
 
 > *“Data isn't just numbers. It’s stories, decisions, and people — and I’m here to make those connections meaningful.”*  
 > – Jhansi
