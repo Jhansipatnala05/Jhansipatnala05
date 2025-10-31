@@ -56,7 +56,7 @@ Developed predictive models for investment division forecasting using Python and
 
 ### 🌐 Connect with Me
 [💼 LinkedIn](https://www.linkedin.com/in/jhansi-patnala/)  
-📧 **Email:** jhansi031@outlook.com  
+📧 **Email:** jpatnala56@gmail.com 
 📍 Virginia, USA  
 
 ---
